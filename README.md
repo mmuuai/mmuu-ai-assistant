@@ -31,6 +31,12 @@ AI 工具管理助手
 
 Windows 10 / 11（64 位）；macOS 13 及以上（Apple 芯片与 Intel）。
 
+## 联系作者
+
+有问题或建议，可以扫码加作者企业微信，也可以在 [Issues](https://github.com/mmuuai/mmuu-ai-assistant/issues) 里反馈。
+
+<img src="assets/contact-wecom.png" width="200" alt="作者企业微信二维码">
+
 ## 赞助
 
 MMUU AI 助手完全免费，也没有广告。赞助完全自愿，不影响任何功能的使用。
