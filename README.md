@@ -34,3 +34,7 @@ Windows 10 / 11（64 位）；macOS 13 及以上（Apple 芯片与 Intel）。
 ## 赞助
 
 MMUU AI 助手完全免费，也没有广告。赞助完全自愿，不影响任何功能的使用。
+
+| 微信 | 支付宝 |
+|:---:|:---:|
+| <img src="assets/sponsor-wechat.png" width="200" alt="微信收款码"> | <img src="assets/sponsor-alipay.png" width="200" alt="支付宝收款码"> |
