@@ -12,7 +12,7 @@ AI 工具管理助手
 - **Mac（Apple 芯片）**：`…-macOS-AppleSilicon.zip`
 - **Mac（Intel 芯片）**：`…-macOS-Intel.zip`
 
-安装步骤和 Mac 第一次打开的放行方法写在每个版本的说明里。当前为测试版，欢迎在 [Issues](https://github.com/mmuuai/mmuu-ai-assistant/issues) 反馈问题。
+安装步骤和 Mac 第一次打开的放行方法写在每个版本的说明里。使用中遇到问题欢迎在 [Issues](https://github.com/mmuuai/mmuu-ai-assistant/issues) 反馈问题。
 
 ## 能做什么
 
@@ -29,7 +29,7 @@ AI 工具管理助手
 
 ## 支持的系统
 
-Windows 10 / 11（64 位）；macOS 13 及以上（Apple 芯片与 Intel，测试中）。
+Windows 10 / 11（64 位）；macOS 13 及以上（Apple 芯片与 Intel）。
 
 ## 赞助
 
