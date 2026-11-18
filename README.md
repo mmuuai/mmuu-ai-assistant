@@ -4,7 +4,15 @@ AI 工具管理助手
 
 一个窗口管理 Claude、Codex、Grok、Cursor、Kimi、DeepSeek 等十多个 AI 软件：账号与中转站一键切换、内置代理与环境检测、技能安装和会话交接。对话记录始终是同一份。
 
-> 正式版即将发布。发布后可以在本页右侧的 **Releases** 下载安装包。
+## 下载
+
+到 [Releases](https://github.com/mmuuai/mmuu-ai-assistant/releases) 下载最新版，按自己的电脑选：
+
+- **Windows 10 / 11（64 位）**：`…-Windows-x64.zip`
+- **Mac（Apple 芯片）**：`…-macOS-AppleSilicon.zip`
+- **Mac（Intel 芯片）**：`…-macOS-Intel.zip`
+
+安装步骤和 Mac 第一次打开的放行方法写在每个版本的说明里。当前为测试版，欢迎在 [Issues](https://github.com/mmuuai/mmuu-ai-assistant/issues) 反馈问题。
 
 ## 能做什么
 
@@ -21,7 +29,7 @@ AI 工具管理助手
 
 ## 支持的系统
 
-Windows 10 / 11（64 位）。Mac 版开发中。
+Windows 10 / 11（64 位）；macOS 13 及以上（Apple 芯片与 Intel，测试中）。
 
 ## 赞助
 
